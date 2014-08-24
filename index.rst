@@ -11,16 +11,14 @@ This is a compiled list of resources recommended by the contributors of the ISME
 Authors include:
 
 Adina Howe (Argonne National Laboratory / Michigan State University)
-
 Rachel Mackelprang (California State University)
-
 Kostas Konstantinidis (Georgia Tech)
-
 Jizhong (Joe) Zhou (University of Oklahoma)
-
 Fan Yang (Iowa State University)
-
 Greg Caporaso (Northern Arizona)
+
+List of resources
+=================
 
 `ANGUS resources <http://ged.msu.edu/angus/>`__ - general next generation sequencing how-to tutorials and broad links to useful sequencing analysis information
 

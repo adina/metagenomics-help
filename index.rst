@@ -12,6 +12,7 @@ This is a compiled list of resources recommended by the contributors of the ISME
 
 `NGS Course Tutorials 2014 <http://angus.readthedocs.org/en/2014/>`__ - all tutorials from the MSU NGS course, ranging from sequencing trimming, mapping, assembly, and annotation
 
+`Estimating coverage of metagenomes <www.enve-omics.gatech.edu>`__ - Konstantinidis tools to estimate needed sequencing coverage
 
 Authors include:
 

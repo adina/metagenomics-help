@@ -14,6 +14,8 @@ This is a compiled list of resources recommended by the contributors of the ISME
 
 `Estimating coverage of metagenomes <http://www.enve-omics.gatech.edu/>`__ - Konstantinidis tools to estimate needed sequencing coverage
 
+`Xander - a targeted assembler <https://github.com/fishjord/xander_analysis_skel/>`__ - tool presented by Fan Yang for targetting specific gene families based on gene profiles
+
 Authors include:
 
 Adina Howe (Argonne National Laboratory / Michigan State University);

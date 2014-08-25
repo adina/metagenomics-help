@@ -16,6 +16,8 @@ This is a compiled list of resources recommended by the contributors of the ISME
 
 `Xander - a targeted assembler <https://github.com/fishjord/xander_analysis_skel/>`__ - tool presented by Fan Yang for targetting specific gene families based on gene profiles
 
+`scikit-bio <http://scikit-bio.org>`_, an education-ready and production-ready general-purpose bioinformatics toolkit (Greg Caporaso's SciPy 2014 `slides <http://scikit-bio.org/presentations/scipy/2014.07.09/index.html#/>`_ and `video <http://www.youtube.com/watch?v=hgBx_DBiPxA>`_), and `An Introduction to Applied Bioinformatics <http://applied-bioinformatics.org>`_.
+
 Authors include:
 
 Adina Howe (Argonne National Laboratory / Michigan State University);

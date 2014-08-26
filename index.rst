@@ -16,6 +16,19 @@ This is a compiled list of resources recommended by the contributors of the ISME
 
 `Xander - a targeted assembler <https://github.com/fishjord/xander_analysis_skel/>`__ - tool presented by Fan Yang for targetting specific gene families based on gene profiles
 
+`Evident <https://github.com/biocore/Evident/>`__
+
+`PrimerProspector <http://pprospector.sourceforge.net/>`__
+
+`Practical Computing <http://practicalcomputing.org/>` - a recommended book for programming
+
+Talk Links
+==========
+`Greg Caporaso <presentations/big-data-panel.ppt>`__
+`Kostas Konstantinidis <presentations/Kostantinidis.pptx>`__
+`Fan Yang <presentations/Aug242014_roundtable_meta_fy.pdf>`__
+
+
 Authors include:
 
 Adina Howe (Argonne National Laboratory / Michigan State University);

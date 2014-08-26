@@ -22,13 +22,13 @@ This is a compiled list of resources recommended by the contributors of the ISME
 
 `PrimerProspector <http://pprospector.sourceforge.net/>`__
 
-`Practical Computing <http://practicalcomputing.org/>` - a recommended book for programming
+`Practical Computing <http://practicalcomputing.org/>__` - a recommended book for programming
 
 Talk Links
 ==========
-`Greg Caporaso <presentations/big-data-panel.ppt>`__
-`Kostas Konstantinidis <presentations/Kostantinidis.pptx>`__
-`Fan Yang <presentations/Aug242014_roundtable_meta_fy.pdf>`__
+`Greg Caporaso <./presentations/big-data-panel.ppt>`__
+`Kostas Konstantinidis <./presentations/Kostantinidis.pptx>`__
+`Fan Yang <./presentations/Aug242014_roundtable_meta_fy.pdf>`__
 
 
 Authors include:

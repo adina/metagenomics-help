@@ -28,9 +28,9 @@ Talk Links
 ==========
 `Greg Caporaso <_static/big-data-panel.ppt>`__
 
-`Kostas Konstantinidis <_static/presentations/Kostantinidis.pptx>`__
+`Kostas Konstantinidis <_static/Kostantinidis.pptx>`__
 
-`Fan Yang <_static/presentations/Aug242014_roundtable_meta_fy.pdf>`__
+`Fan Yang <_static/Aug242014_roundtable_meta_fy.pdf>`__
 
 
 Authors include:

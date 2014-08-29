@@ -32,6 +32,8 @@ Talk Links
 
 `Fan Yang <_static/Aug242014_roundtable_meta_fy.pdf>`__
 
+`Rachel Mackelprang <_static/ISME_Mackelprang2014.pptx>`__
+
 
 Authors include:
 

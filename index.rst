@@ -24,7 +24,7 @@ This is a compiled list of resources recommended by the contributors of the ISME
 
 `Practical Computing <http://practicalcomputing.org/>`__ - a recommended book for programming
 
-`FOAM: Functional Ontology Assignments for Metagenomes <http://portal.nersc.gov/project/m1317/FOAM/>'__
+`FOAM: Functional Ontology Assignments for Metagenomes <http://portal.nersc.gov/project/m1317/FOAM/>`__
 
 Talk Links
 ==========
